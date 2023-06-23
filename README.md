@@ -90,7 +90,8 @@ Now, you need to configure Polybar to display the mouse battery module and bind 
 [module/lgpx]
 type = custom/script
 exec = ~/.config/polybar/scripts/mouse.sh
-click-left = solaar``` 
+click-left = solaar
+```
 
 Make sure to replace `~/.config/polybar/scripts/mouse.sh` with the correct path where you saved the `mouse.sh` script.
 
